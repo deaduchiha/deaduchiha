@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deaduchiha
+- 👋 Hi, I’m Alireza Nikzad
 - 👀 I’m interested in Front-end-development
 - 🌱 I’m currently learning ReactJs, NodeJs, JavaScript
 - 💞️ I’m looking to collaborate on Website Designs
