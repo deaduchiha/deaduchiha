@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **nextJs and typescript**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**, **Javascript**, **HTML CSS**, **CSS Frameworks**
 
 - 📧 My email address **alireza.nikzdd@gmail.com**
 
