@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Alireza Nikzad</h1>
 <h3 align="center">Front-end-developer with demonstrated skills in building web applications using JavaScript along with React.js.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deaduchiha" alt="deaduchiha" /></a> </p>
-
 - 🌱 I’m currently learning **nextJs and typescript**
 
 - 💬 Ask me about **react**
