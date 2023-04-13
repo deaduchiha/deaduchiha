@@ -7,7 +7,7 @@
 
 - 📧 My email address **alireza.nikzdd@gmail.com**
 
-- I'm like to **Play games, Watching anime and learn new frameworks.**
+- I like to **play games, Watching anime and learn new frameworks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
