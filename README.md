@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on droplinked<br>🌱 I’m currently learning NextJs and Typescript<br>💬 Ask me about React, Javascript, HTML CSS, CSS Frameworks<br>📧 My email address alireza.nikzdd@gmail.com<br><br><br>
+🌱 I’m currently learning NextJs and Typescript<br>💬 Ask me about React, Javascript, HTML CSS, CSS Frameworks<br>📧 My email address alireza.nikzdd@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
