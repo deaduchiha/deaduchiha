@@ -1,18 +1,19 @@
-# 💫 About Me:
-🌱 I’m currently learning NextJs and Typescript<br>💬 Ask me about React, Javascript, HTML CSS, CSS Frameworks<br>📧 My email address alireza.nikzdd@gmail.com<br><br><br>
+<h1 align="left">Greetings 👋🏾</h1>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-nikzad/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15084999/alireza-nikzad) 
+<p align="left">I am Alireza, a frontend developer with a keen focus on new technologies. My extensive experience in the frontend industry has been channeled towards specialized consulting, contracting  and freelance work<br><br>My primary objective is to facilitate the growth and innovation of the web developing. By combining our efforts, we can significantly contribute to the advancement of decentralized technology.</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deaduchiha&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deaduchiha&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deaduchiha&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=deaduchiha&icon=1&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="25" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
