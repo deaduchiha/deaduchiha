@@ -1,5 +1,11 @@
-I'm **Alireza Nikzad**, a software developer. I build practical applications with a focus on reliability, maintainable code, and interfaces that feel straightforward to use.
+# Hi, I'm Alireza 👋
 
+I build and run self-hosted infrastructure and full-stack web applications.
+
+- 🔧 Hands-on with server configuration, proxy stacks, and deployment
+- 🏗️ Currently building a multi-role SaaS app with RBAC
+
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -8,3 +14,6 @@ I'm **Alireza Nikzad**, a software developer. I build practical applications wit
 ![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
+## Find Me
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31o6wfnefunnoi2rpnkoaibhe2s4)
