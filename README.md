@@ -4,8 +4,6 @@ software developer who enjoys turning ideas into thoughtful web and desktop prod
 
 - I take on freelance projects and enjoy watching anime and playing video games in my free time. League of Legends is my favorite.
 
-- Open to collaboration on web and desktop projects. Feel free to reach out through [nikzad.dev](https://nikzad.dev).
-
 <br clear="right" />
 
 ## Tech Stack
