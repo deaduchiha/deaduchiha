@@ -1,6 +1,6 @@
 <img align="right" width="400" alt="Spotify status" src="https://github-profile-spotify-status-orpin.vercel.app/" />
 
-# Hi, I'm Alireza 👋
+**Hi, I'm Alireza 👋**
 
 I build and run self-hosted infrastructure and full-stack web applications.
 
