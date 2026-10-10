@@ -1,6 +1,4 @@
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td valign="top">
+<img align="right" width="400" alt="Spotify status" src="https://github-profile-spotify-status-orpin.vercel.app/" />
 
 # Hi, I'm Alireza 👋
 
@@ -8,6 +6,8 @@ I build and run self-hosted infrastructure and full-stack web applications.
 
 - 🔧 Hands-on with server configuration, proxy stacks, and deployment
 - 🏗️ Currently building a multi-role SaaS app with RBAC
+
+<br clear="right" />
 
 ## Tech Stack
 
@@ -17,12 +17,3 @@ I build and run self-hosted infrastructure and full-stack web applications.
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-</td>
-<td align="right" valign="top">
-
-<img src="https://github-profile-spotify-status-orpin.vercel.app/" alt="Spotify status" width="400" />
-
-</td>
-</tr>
-</table>
