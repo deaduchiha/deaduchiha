@@ -6,13 +6,11 @@
 
 # Building useful things for the web & desktop.
 
-I'm **Alireza Nikzad**, a software developer working with **TypeScript, React, Next.js, and Electron**. I build practical applications with a focus on reliability, maintainable code, and interfaces that feel straightforward to use.
-
-**[Portfolio ↗](https://nikzad.dev)** &nbsp; / &nbsp; **[Email ↗](mailto:alireza@nikzad.dev)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/alireza-nikzad/)**
+I'm **Alireza Nikzad**, a software developer. I build practical applications with a focus on reliability, maintainable code, and interfaces that feel straightforward to use.
 
 ## Toolkit
 
-`TypeScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Electron`
+`TypeScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Electron`  &nbsp; `TanstackStart` &nbsp; `NestJS`
 
 Web interfaces · Cross-platform desktop applications · Product development
 
