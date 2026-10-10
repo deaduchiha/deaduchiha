@@ -1,6 +1,5 @@
 I'm **Alireza Nikzad**, a software developer. I build practical applications with a focus on reliability, maintainable code, and interfaces that feel straightforward to use.
 
-## Toolkit
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
