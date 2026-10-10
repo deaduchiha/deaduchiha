@@ -11,28 +11,3 @@ I'm **Alireza Nikzad**, a software developer. I build practical applications wit
 ## Toolkit
 
 `TypeScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Electron`  &nbsp; `TanstackStart` &nbsp; `NestJS`
-
-Web interfaces · Cross-platform desktop applications · Product development
-
-## Selected work
-
-| Project | What it does |
-| :--- | :--- |
-| **[Link shortener & QR ↗](https://link.nikzad.dev)** | Short links, QR codes, and simple sharing. |
-| **Partow Optic** | Desktop accounting and management: transactions, invoices, and printing. |
-| **[RhinoMenu ↗](https://app.rhinomenu.com)** | Digital menus and restaurant dashboards. |
-| **[24 ↗](https://24fitfood.ir)** | Online food ordering and delivery. |
-
-[Explore more work on my portfolio →](https://nikzad.dev)
-
-## Open source
-
-**[Persian Wheel Picker ↗](https://github.com/deaduchiha/persian-wheel-picker)**  
-A TypeScript Jalali date picker for React, with synchronized scroll wheels and smooth snapping.
-
-**[htmldl ↗](https://github.com/deaduchiha/htmldl)**  
-A lightweight utility for exporting DOM elements as PNG, JPEG, or SVG in React applications.
-
-## Let's build something useful.
-
-Have a web or desktop project in mind? **[Get in touch →](mailto:alireza@nikzad.dev)**
