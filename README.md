@@ -21,7 +21,7 @@ I build and run self-hosted infrastructure and full-stack web applications.
 </td>
 <td align="right" valign="top">
 
-<img src="[https://YOUR-APP.vercel.app/](https://github-profile-spotify-status-kndf2okuq-deaduchihas-projects.vercel.app/)/" alt="Spotify status" width="400" />
+<img src="[[https://YOUR-APP.vercel.app/](https://github-profile-spotify-status-kndf2okuq-deaduchihas-projects.vercel.app/](https://github-profile-spotify-status-orpin.vercel.app/))" alt="Spotify status" width="400" />
 
 </td>
 </tr>
