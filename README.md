@@ -2,9 +2,9 @@
 
 software developer who enjoys turning ideas into thoughtful web and desktop products with TypeScript, React, Next.js, TanStack Start, and Electron. I also build and run self-hosted infrastructure.
 
-- 🔧 Hands-on with server configuration, proxy stacks, and deployment
-- 🏗️ Currently building a multi-role SaaS app with RBAC
-- 🌐 Portfolio: [nikzad.dev](https://nikzad.dev)
+I take on freelance projects and enjoy playing video games in my free time. League of Legends is my favorite.
+
+Open to collaboration on web and desktop projects. Feel free to reach out through [nikzad.dev](https://nikzad.dev).
 
 <br clear="right" />
 
