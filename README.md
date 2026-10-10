@@ -1,4 +1,4 @@
-<img align="right" width="400" alt="Spotify status" src="https://github-profile-spotify-status-orpin.vercel.app/" />
+<img align="right" width="300" alt="Spotify status" src="https://github-profile-spotify-status-orpin.vercel.app/" />
 
 **Hi, I'm Alireza 👋**
 
