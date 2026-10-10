@@ -1,15 +1,14 @@
 <img align="right" width="300" alt="Spotify status" src="https://github-profile-spotify-status-orpin.vercel.app/" />
 
-**Hi, I'm Alireza 👋**
-
-I build and run self-hosted infrastructure and full-stack web applications.
+software developer who enjoys turning ideas into thoughtful web and desktop products with TypeScript, React, Next.js, TanStack Start, and Electron. I also build and run self-hosted infrastructure.
 
 - 🔧 Hands-on with server configuration, proxy stacks, and deployment
 - 🏗️ Currently building a multi-role SaaS app with RBAC
+- 🌐 Portfolio: [nikzad.dev](https://nikzad.dev)
 
 <br clear="right" />
 
-## Stacks
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
